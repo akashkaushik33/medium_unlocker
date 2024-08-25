@@ -1,4 +1,7 @@
-# Welcome to your Expo app 👋
+# Welcome to Medium Unlocker 👋
+
+## How to use
+Share the link from medium app to Medium Unlocker and it will open the full article there
 
 This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
 
