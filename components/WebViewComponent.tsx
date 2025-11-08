@@ -10,7 +10,7 @@ export default function App({ uri }) {
   return (
     <WebView
       style={styles.container}
-      source={{ uri: ' https://freedium.cfd/' + uri }}
+      source={{ uri: ' https://freedium-mirror.cfd/' + uri }}
     />
   );
 }
